@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc98662c-d0ec-4deb-854c-c29f8050df96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CognizantInterviewGENC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2oZmwKwnIq5LBEynE0IfXwhDwPH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Pattern1.executor": "Run",
+    "Application.Pattern10.executor": "Run",
+    "Application.Pattern11.executor": "Run",
+    "Application.Pattern12.executor": "Run",
+    "Application.Pattern13.executor": "Run",
+    "Application.Pattern14.executor": "Run",
+    "Application.Pattern15.executor": "Run",
+    "Application.Pattern16.executor": "Run",
+    "Application.Pattern17.executor": "Run",
+    "Application.Pattern18.executor": "Run",
+    "Application.Pattern19.executor": "Run",
+    "Application.Pattern2.executor": "Run",
+    "Application.Pattern20.executor": "Run",
+    "Application.Pattern21.executor": "Run",
+    "Application.Pattern22.executor": "Run",
+    "Application.Pattern3.executor": "Run",
+    "Application.Pattern4.executor": "Run",
+    "Application.Pattern5.executor": "Run",
+    "Application.Pattern6.executor": "Run",
+    "Application.Pattern7.executor": "Run",
+    "Application.Pattern8.executor": "Run",
+    "Application.Pattern9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc98662c-d0ec-4deb-854c-c29f8050df96" name="Changes" comment="" />
+      <created>1731085712778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731085712778</updated>
+    </task>
+    <servers />
+  </component>
+</project>
